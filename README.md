@@ -31,10 +31,6 @@ To compare air quality parameters in Delhi across different stations and analyze
 
 ## Program
 
-### Name : P PARTHIBAN
-
-### Reg No: 212223230145
-
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
